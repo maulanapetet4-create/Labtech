@@ -1,0 +1,7 @@
+{
+  "name": "Laporan Harian Data Mesin CNC",
+  "description": "Sistem Formulir Digital dan Alur Persetujuan Bertingkat Laporan Harian Mesin CNC Manufaktur",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

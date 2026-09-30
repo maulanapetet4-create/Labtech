@@ -1,0 +1,866 @@
+[
+  {
+    "id": "CNC-202609-001",
+    "createdAt": "2026-09-27T08:30:00.000Z",
+    "updatedAt": "2026-09-27T17:15:00.000Z",
+    "operatorName": "Ahmad Fauzi",
+    "shift": "Shift 1 (Pagi)",
+    "dayAndDate": "Minggu, 27 September 2026",
+    "workStartTime": "08:00",
+    "workEndTime": "16:30",
+    "project": "SOSA Gourmet Box Display 2026",
+    "sasaNo": "SPK-SOSA-9941",
+    "sectionA": {
+      "oilFillVolumeMl": "",
+      "oilLevel": "Normal",
+      "bladeChanges": {
+        "vcut": {
+          "replaced": false,
+          "changeDate": "",
+          "toolCondition": ""
+        },
+        "endmill3mm": {
+          "replaced": false,
+          "changeDate": "",
+          "toolCondition": ""
+        },
+        "endmill6mm": {
+          "replaced": false,
+          "changeDate": "",
+          "toolCondition": ""
+        }
+      }
+    },
+    "sectionB_Quick": [
+      {
+        "sheetNumber": 1,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 2,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 3,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 4,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 5,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 6,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      }
+    ],
+    "sectionC_Tekma": [
+      {
+        "sheetNumber": 1,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 2,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 3,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 4,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 5,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 6,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      }
+    ],
+    "sectionD": {
+      "ppG4mm": {
+        "lembar": "",
+        "sisa": ""
+      },
+      "pp8mm": {
+        "lembar": "",
+        "sisa": ""
+      },
+      "ppF10mm": {
+        "lembar": "",
+        "sisa": ""
+      },
+      "otherMaterials": []
+    },
+    "sectionE": [
+      {
+        "sheetNumber": 1,
+        "lengthMm": "",
+        "widthMm": "",
+        "thicknessMm": "",
+        "toleranceNotes": ""
+      },
+      {
+        "sheetNumber": 2,
+        "lengthMm": "",
+        "widthMm": "",
+        "thicknessMm": "",
+        "toleranceNotes": ""
+      },
+      {
+        "sheetNumber": 3,
+        "lengthMm": "",
+        "widthMm": "",
+        "thicknessMm": "",
+        "toleranceNotes": ""
+      },
+      {
+        "sheetNumber": 4,
+        "lengthMm": "",
+        "widthMm": "",
+        "thicknessMm": "",
+        "toleranceNotes": ""
+      },
+      {
+        "sheetNumber": 5,
+        "lengthMm": "",
+        "widthMm": "",
+        "thicknessMm": "",
+        "toleranceNotes": ""
+      },
+      {
+        "sheetNumber": 6,
+        "lengthMm": "",
+        "widthMm": "",
+        "thicknessMm": "",
+        "toleranceNotes": ""
+      }
+    ],
+    "sectionF": {
+      "otherWork": "",
+      "messageOrInfo": "",
+      "issues": ""
+    },
+    "status": "APPROVED",
+    "supervisorToken": "spv_tok_9941_mulyana",
+    "gmToken": "gm_tok_9941_arifin",
+    "supervisorName": "Mulyana",
+    "gmName": "Arifin",
+    "timeline": [
+      {
+        "role": "OPERATOR",
+        "actorName": "Ahmad Fauzi",
+        "action": "SUBMITTED",
+        "fromStatus": "DRAFT",
+        "toStatus": "PENDING_SUPERVISOR",
+        "timestamp": "2026-09-27T16:35:00.000Z",
+        "note": "Laporan kerja shift 1 selesai tanpa kendala fatal."
+      },
+      {
+        "role": "SUPERVISOR",
+        "actorName": "Mulyana",
+        "action": "APPROVED",
+        "fromStatus": "PENDING_SUPERVISOR",
+        "toStatus": "PENDING_GM",
+        "timestamp": "2026-09-27T16:50:00.000Z",
+        "note": "Hasil potong rapi dan dimensi sesuai toleransi gambar kerja."
+      },
+      {
+        "role": "GM",
+        "actorName": "Arifin",
+        "action": "APPROVED",
+        "fromStatus": "PENDING_GM",
+        "toStatus": "APPROVED",
+        "timestamp": "2026-09-27T17:15:00.000Z",
+        "note": "Disetujui. Lanjutkan produksi batch berikutnya."
+      }
+    ],
+    "supervisorApproval": {
+      "approvedAt": "2026-09-27T16:50:00.000Z",
+      "approverName": "Mulyana",
+      "notes": "Hasil potong rapi dan dimensi sesuai toleransi gambar kerja. Diteruskan ke GM.",
+      "decision": "APPROVED"
+    },
+    "gmApproval": {
+      "approvedAt": "2026-09-27T17:15:00.000Z",
+      "approverName": "Arifin",
+      "notes": "Disetujui. Lanjutkan produksi batch berikutnya.",
+      "decision": "APPROVED"
+    }
+  },
+  {
+    "id": "CNC-202609-002",
+    "createdAt": "2026-09-28T07:15:00.000Z",
+    "updatedAt": "2026-09-28T09:20:00.000Z",
+    "operatorName": "Budi Santoso",
+    "shift": "Shift 2 (Siang)",
+    "dayAndDate": "Senin, 28 September 2026",
+    "workStartTime": "15:00",
+    "workEndTime": "23:00",
+    "project": "Partisi Interior SOSA Seasoning Rack",
+    "sasaNo": "SPK-SOSA-8820",
+    "sectionA": {
+      "oilFillVolumeMl": "",
+      "oilLevel": "Normal",
+      "bladeChanges": {
+        "vcut": {
+          "replaced": false,
+          "changeDate": "",
+          "toolCondition": ""
+        },
+        "endmill3mm": {
+          "replaced": false,
+          "changeDate": "",
+          "toolCondition": ""
+        },
+        "endmill6mm": {
+          "replaced": false,
+          "changeDate": "",
+          "toolCondition": ""
+        }
+      }
+    },
+    "sectionB_Quick": [
+      {
+        "sheetNumber": 1,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 2,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 3,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 4,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 5,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 6,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      }
+    ],
+    "sectionC_Tekma": [
+      {
+        "sheetNumber": 1,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 2,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 3,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 4,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 5,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 6,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      }
+    ],
+    "sectionD": {
+      "ppG4mm": {
+        "lembar": "",
+        "sisa": ""
+      },
+      "pp8mm": {
+        "lembar": "",
+        "sisa": ""
+      },
+      "ppF10mm": {
+        "lembar": "",
+        "sisa": ""
+      },
+      "otherMaterials": []
+    },
+    "sectionE": [
+      {
+        "sheetNumber": 1,
+        "lengthMm": "",
+        "widthMm": "",
+        "thicknessMm": "",
+        "toleranceNotes": ""
+      },
+      {
+        "sheetNumber": 2,
+        "lengthMm": "",
+        "widthMm": "",
+        "thicknessMm": "",
+        "toleranceNotes": ""
+      },
+      {
+        "sheetNumber": 3,
+        "lengthMm": "",
+        "widthMm": "",
+        "thicknessMm": "",
+        "toleranceNotes": ""
+      },
+      {
+        "sheetNumber": 4,
+        "lengthMm": "",
+        "widthMm": "",
+        "thicknessMm": "",
+        "toleranceNotes": ""
+      },
+      {
+        "sheetNumber": 5,
+        "lengthMm": "",
+        "widthMm": "",
+        "thicknessMm": "",
+        "toleranceNotes": ""
+      },
+      {
+        "sheetNumber": 6,
+        "lengthMm": "",
+        "widthMm": "",
+        "thicknessMm": "",
+        "toleranceNotes": ""
+      }
+    ],
+    "sectionF": {
+      "otherWork": "",
+      "messageOrInfo": "",
+      "issues": ""
+    },
+    "status": "PENDING_GM",
+    "supervisorToken": "spv_tok_8820_mulyana",
+    "gmToken": "gm_tok_8820_arifin",
+    "supervisorName": "Mulyana",
+    "gmName": "Arifin",
+    "timeline": [
+      {
+        "role": "OPERATOR",
+        "actorName": "Budi Santoso",
+        "action": "SUBMITTED",
+        "fromStatus": "DRAFT",
+        "toStatus": "PENDING_SUPERVISOR",
+        "timestamp": "2026-09-28T08:45:00.000Z",
+        "note": "Selesai pemotongan material PP F 10mm."
+      },
+      {
+        "role": "SUPERVISOR",
+        "actorName": "Mulyana",
+        "action": "APPROVED",
+        "fromStatus": "PENDING_SUPERVISOR",
+        "toStatus": "PENDING_GM",
+        "timestamp": "2026-09-28T09:20:00.000Z",
+        "note": "Telah diperiksa. Menunggu persetujuan GM Arifin."
+      }
+    ],
+    "supervisorApproval": {
+      "approvedAt": "2026-09-28T09:20:00.000Z",
+      "approverName": "Mulyana",
+      "notes": "Telah diperiksa. Jumlah komponen dan sisa material sudah balance.",
+      "decision": "APPROVED"
+    }
+  },
+  {
+    "id": "CNC-202609-003",
+    "createdAt": "2026-09-28T12:00:00.000Z",
+    "updatedAt": "2026-09-28T12:05:00.000Z",
+    "operatorName": "Dedi Kurniawan",
+    "shift": "Shift 1 (Pagi)",
+    "dayAndDate": "Senin, 28 September 2026",
+    "workStartTime": "08:00",
+    "workEndTime": "16:30",
+    "project": "SOSA Promo Stand Hanger PP 8mm",
+    "sasaNo": "SPK-SOSA-7712",
+    "sectionA": {
+      "oilFillVolumeMl": "",
+      "oilLevel": "Normal",
+      "bladeChanges": {
+        "vcut": {
+          "replaced": false,
+          "changeDate": "",
+          "toolCondition": ""
+        },
+        "endmill3mm": {
+          "replaced": false,
+          "changeDate": "",
+          "toolCondition": ""
+        },
+        "endmill6mm": {
+          "replaced": false,
+          "changeDate": "",
+          "toolCondition": ""
+        }
+      }
+    },
+    "sectionB_Quick": [
+      {
+        "sheetNumber": 1,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 2,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 3,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 4,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 5,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 6,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      }
+    ],
+    "sectionC_Tekma": [
+      {
+        "sheetNumber": 1,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 2,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 3,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 4,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 5,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      },
+      {
+        "sheetNumber": 6,
+        "processTime": "",
+        "delayTime": "",
+        "delayReason": "",
+        "setupTime": "",
+        "inspectionTime": "",
+        "productName": "",
+        "materialType": "",
+        "totalComponents": "",
+        "cutType": "Cut",
+        "quality": "OK"
+      }
+    ],
+    "sectionD": {
+      "ppG4mm": {
+        "lembar": "",
+        "sisa": ""
+      },
+      "pp8mm": {
+        "lembar": "",
+        "sisa": ""
+      },
+      "ppF10mm": {
+        "lembar": "",
+        "sisa": ""
+      },
+      "otherMaterials": []
+    },
+    "sectionE": [
+      {
+        "sheetNumber": 1,
+        "lengthMm": "",
+        "widthMm": "",
+        "thicknessMm": "",
+        "toleranceNotes": ""
+      },
+      {
+        "sheetNumber": 2,
+        "lengthMm": "",
+        "widthMm": "",
+        "thicknessMm": "",
+        "toleranceNotes": ""
+      },
+      {
+        "sheetNumber": 3,
+        "lengthMm": "",
+        "widthMm": "",
+        "thicknessMm": "",
+        "toleranceNotes": ""
+      },
+      {
+        "sheetNumber": 4,
+        "lengthMm": "",
+        "widthMm": "",
+        "thicknessMm": "",
+        "toleranceNotes": ""
+      },
+      {
+        "sheetNumber": 5,
+        "lengthMm": "",
+        "widthMm": "",
+        "thicknessMm": "",
+        "toleranceNotes": ""
+      },
+      {
+        "sheetNumber": 6,
+        "lengthMm": "",
+        "widthMm": "",
+        "thicknessMm": "",
+        "toleranceNotes": ""
+      }
+    ],
+    "sectionF": {
+      "otherWork": "",
+      "messageOrInfo": "",
+      "issues": ""
+    },
+    "status": "PENDING_SUPERVISOR",
+    "supervisorToken": "spv_tok_7712_mulyana",
+    "gmToken": "gm_tok_7712_arifin",
+    "supervisorName": "Mulyana",
+    "gmName": "Arifin",
+    "timeline": [
+      {
+        "role": "OPERATOR",
+        "actorName": "Dedi Kurniawan",
+        "action": "SUBMITTED",
+        "fromStatus": "DRAFT",
+        "toStatus": "PENDING_SUPERVISOR",
+        "timestamp": "2026-09-28T12:05:00.000Z",
+        "note": "Laporan telah diajukan ke Pak Mulyana untuk review."
+      }
+    ]
+  }
+]
